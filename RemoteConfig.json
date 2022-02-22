@@ -1,0 +1,20 @@
+{
+  "packageName": "gba.games.retro",
+  "forceUpdate": false,
+  "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
+  "forceUpdateUrl": "market://details?id=EMPTY",
+  "checkClone": false,
+  "adsNetwork": 0,
+  "adsType": 0,
+  "numberPressToShowAds": 20,
+  "downloadROMsEnabled": false,
+  "downloadROMsURL": "https://www.romsgames.net/roms/gameboy-advance/",
+  "fanpageURL": "",
+  "showNewGames": false,
+  "newGames": {
+      "title": "NES Games",
+      "content": "NES Emulator and all Games is ready! Download now!",
+      "imgUrl": "",
+      "downloadUrl": "market://details?id=nes.retro.nostalgia"
+    }
+}
