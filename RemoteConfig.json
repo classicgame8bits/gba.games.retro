@@ -4,17 +4,20 @@
   "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
   "forceUpdateUrl": "market://details?id=EMPTY",
   "checkClone": false,
+  "reviewVersion": -1,
+  "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
   "adsType": 0,
-  "numberPressToShowAds": 20,
-  "downloadROMsEnabled": false,
-  "downloadROMsURL": "https://www.romsgames.net/roms/gameboy-advance/",
-  "fanpageURL": "",
+  "numberPressToShowAds": 15,
+  "showBannerMenu": false,
+  "showBannerPlay": false,
+  "requireInternetToPlay": false,
   "showNewGames": false,
-  "newGames": {
-      "title": "NES Games",
-      "content": "NES Emulator and all Games is ready! Download now!",
-      "imgUrl": "",
+  "newGames": [
+    {
+      "name": "",
+      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.retro.nostalgia.nes/master/noti.jpg",
       "downloadUrl": "market://details?id=nes.retro.nostalgia"
     }
+  ]
 }
